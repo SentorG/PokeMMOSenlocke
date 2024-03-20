@@ -7,6 +7,7 @@ A list of rules Sentor is using for his PokeMMO Senlocke. <br> This is similar t
 | **New Starter** | The starter Pokémon must be caught again. |
 | **Add 1 Per Badge** | A new Pokémon must be added to the team for every badge obtained. Must be the first encounter of the chosen species. |
 | **Catch & Send** | Sen must catch and train each Pokémon on his main account, then transfer it for use on the alt account. |
+| **OnlyWilds** | No Alpha or swarm Pokémon. Only Pokémon from single encounters in the wild may be used. |
 | **Sugar Daddy** | Items may be purchased from the main account and transferred for use on the alt account. |
 | **Hardcore** | No reviving Pokémon. Once they are fainted, they must be placed in the graveyard box. |
 | **Replacing** | After a Pokémon has fainted, it may either be **replaced with the same species** or Sen can **choose a different Pokémon to use instead**. <br><br> **NO THROWING.** <br><br> |
