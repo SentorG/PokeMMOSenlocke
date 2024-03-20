@@ -11,6 +11,7 @@ A list of rules Sentor is using for his PokeMMO Senlocke. <br> This is similar t
 | **Hardcore** | No reviving Pokémon. Once they are fainted, they must be placed in the graveyard box. |
 | **Replacing** | After a Pokémon has fainted, it may either be **replaced with the same species** or Sen can **choose a different Pokémon to use instead**. <br><br> **NO THROWING.** <br><br> |
 | **No Dupes** | Sen cannot have two of the same species of Pokémon available for use at once. This rule is applicable for all regions. |
+| **Hardcore** | No healing inside battle. |
 | **Death Counter** | All fainted Pokémon must be recorded. |
 | **HM Friends** | HM friends do not need to be Water type. Ocarinas are banned. |
 | **1 Region @ A Time** | The Elite 4 & Champion must be defeated before entering a new region. |
