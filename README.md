@@ -4,16 +4,13 @@ A list of rules Sentor is using for his PokeMMO Senlocke. <br> This is similar t
 |:-:|-|
 | **Mono-type** | Only Water type Pokémon are available to be used. This can be either primary or secondary typing, or evolve into a water type. |
 | **Spin That Wheel** | New Pokémon must be chosen randomly. |
-| **New Starter** | The starter Pokémon must be caught again. |
-| **Add 1 Per Badge** | A new Pokémon must be added to the team for every badge obtained. Must be the first encounter of the chosen species. |
+| **New Starter** | The starter Pokémon must be obtained from outside the "lab". |
+| **Add 1 Per Badge** | A new Pokémon must be added to the team for every badge obtained. |
 | **Catch & Send** | Sen must catch and train each Pokémon on his main account, then transfer it for use on the alt account. |
-| **OnlyWilds** | No Alpha or swarm Pokémon. Only Pokémon from single/horde encounters in the wild may be used. |
-| **Phenomenal** | Phenomenon Pokémon may be acquired on the GTL. The **CHEAPEST** one at the time of need must be purchased. |
 | **Sugar Daddy** | Items may be purchased from the main account and transferred for use on the alt account. |
-| **Hardcore** | No reviving Pokémon. Once they are fainted, they must be placed in the graveyard box. |
 | **Replacing** | After a Pokémon has fainted, it may either be **replaced with the same species** or Sen can **choose a different Pokémon to use instead**. <br><br> **NO THROWING.** <br><br> |
 | **No Dupes** | Sen cannot have two of the same species of Pokémon available for use at once. This rule is applicable for all regions. |
-| **Hardcore** | No healing inside battle. |
-| **Death Counter** | All fainted Pokémon must be recorded. |
+| **Item Limit** | Only 4 items can be used on turns during battles. |
+| **Death Counter** | All Pokémon faints must be recorded. |
 | **HM Friends** | HM friends do not need to be Water type. All Ocarinas but the Fly are banned. |
 | **1 Region @ A Time** | The Elite 4 & Champion must be defeated before entering a new region. |
