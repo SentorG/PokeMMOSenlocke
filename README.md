@@ -6,7 +6,7 @@ A list of rules Sentor is using for his PokeMMO Senlocke. <br> This is similar t
 | **Spin That Wheel** | New Pokémon must be chosen randomly. |
 | **New Starter** | The starter Pokémon must be obtained from outside the "lab". |
 | **Add 1 Per Badge** | A new Pokémon must be added to the team for every badge obtained. |
-| **Fresh Start** | The Pokémon must be a fresh hatch. One Pokémon must be caught in the wild, with as many attempts as needed. The other parent may be caught or bought. |
+| **Fresh Start** | The Pokémon must be a fresh hatch. One Pokémon must be caught in the wild, with as many attempts as needed. The other parent may be caught or bought. Multiple breeds are allowed. Breeding items are also allowed. |
 | **Catch & Send** | Sen must catch and train each Pokémon on his main account, then transfer it for use on the alt account. |
 | **Sugar Daddy** | Items may be purchased from the main account and transferred for use on the alt account. |
 | **No Dupes** | Sen cannot have two of the same species of Pokémon available for use at once. This rule is applicable for all regions. |
