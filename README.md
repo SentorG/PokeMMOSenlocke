@@ -10,8 +10,9 @@ A list of rules Sentor is using for his PokeMMO Senlocke. <br> This is similar t
 | **Superpowers** | Each Pokémon may have their ability changed with the use of an Ability Pill **only once**. |
 | **Catch & Send** | Sen must catch, hatch and train each Pokémon on his main account, then transfer it for use on the alt account. |
 | **Sugar Daddy** | Items may be purchased from the main account and transferred for use on the alt account. |
-| **No Dupes** | Sen cannot have two of the same species of Pokémon available for use at once. This rule is applicable for all regions. |
+| **No Dupes** | Sen cannot have two of the same species of Pokémon available for use at once. |
 | **Item Limit** | Only 4 items can be used on turns during battles. |
 | **Death Counter** | All Pokémon faints must be recorded. |
 | **HM Friends** | HM friends do not need to be Water type. All Ocarinas but Fly are banned. |
 | **1 Region @ A Time** | The Elite 4 & Champion must be defeated before entering a new region. |
+| **MVP** | Pokémon obtained in one region may be eligible for use in another region with a similar end-game level cap. |
